@@ -1,7 +1,7 @@
 # 🖥️ DevOps Monitoring API
 
-![CI Pipeline](https://github.com/abdou-009/devops-lab/actions/workflows/ci.yml/badge.svg)
-![CD Pipeline](https://github.com/abdou-009/devops-lab/actions/workflows/cd.yml/badge.svg)
+![CI Pipeline](https://github.com/abdou-009/DevOps_Project/actions/workflows/ci.yml/badge.svg)
+![CD Pipeline](https://github.com/abdou-009/DevOps_Project/actions/workflows/cd.yml/badge.svg)
 
 A **production-ready REST API** for real-time system metrics monitoring, built with Python Flask, containerized with Docker, and deployed via **CI/CD pipeline**.
 
